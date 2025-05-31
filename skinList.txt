@@ -1,1 +1,9 @@
-
+{
+  1 : "Slugcat",
+  2 : "Strautnier",
+  3 : "Femcil",
+  4 : "Heila",
+  5 : "Plantogen",
+  6 : "Midnight",
+  7 : "Teskasu",
+}
